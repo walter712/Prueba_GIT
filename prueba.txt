@@ -1,1 +1,11 @@
 prueba
+iniciar git
+git init 
+git config user.name "walter712"
+git config user.email "huaytancalixtowalter@gmail.com"
+git remote add origin https://github.com/walter712/Prueba_GIT.git
+git add prueba.txt
+git status
+git commit -m "prueba"
+git log 
+git push -u origin master
