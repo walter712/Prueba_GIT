@@ -1,0 +1,6 @@
+Config\Conexion.class
+Modelo\Producto.class
+Modelo\Cliente.class
+Config\NewMain.class
+Modelo\ProductoDAO.class
+app\AppInitializer.class
